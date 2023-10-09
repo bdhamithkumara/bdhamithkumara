@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on - Front-End Project<br>🤝 I’m looking for help with - Back-End Development<br>🌱 I’m currently learning - React JS<br>💬 Ask me about - HTML CSS JavaScript<br>⚡ Fun fact -  No great mind has ever existed without a touch of madness
+👯 I’m looking to collaborate on - Front-End Project<br>🤝 I’m looking for help with - Back-End Development<br>🌱 I’m currently learning - Nuxt JS<br>💬 Ask me about - HTML CSS JavaScript ReactJS NextJS<br>⚡ Fun fact -  No great mind has ever existed without a touch of madness
 
 
 ## 🌐 Socials:
