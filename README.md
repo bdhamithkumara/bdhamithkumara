@@ -11,6 +11,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=bdhamithkumara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bdhamithkumara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bdhamithkumara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 Stackoverflow Stats:
+<p>
+ <a>
+  <img width="200" align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=9677873&theme=dark" />
+  <img width="600" height="300" align="left" src="https://github-stackoverflow-readme.vercel.app/?userId=9677873" />
+ </a> 
+</p>
 
 [![@dhamith98kumara's Holopin board](https://holopin.me/dhamith98kumara)](https://holopin.io/@dhamith98kumara)
 
