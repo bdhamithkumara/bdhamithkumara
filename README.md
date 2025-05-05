@@ -23,6 +23,11 @@
  </a> 
 </p>
 
+<a href="https://github.com/devxb/bdhamithkumara">
+  <img src="https://render.gitanimals.org/farms/bdhamithkumara"/>
+</a>
+
+
 [![@dhamith98kumara's Holopin board](https://holopin.me/dhamith98kumara)](https://holopin.io/@dhamith98kumara)
 
 ### ✍️ Random Dev Quote
