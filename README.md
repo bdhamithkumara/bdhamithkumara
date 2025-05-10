@@ -107,13 +107,29 @@
 
 ---
 
+## ⚡ Stack Overflow Stats
+
+<p align="center">
+  <img width="400" src="https://github-stackoverflow-readme.vercel.app/?userId=9677873" alt="Stack Overflow Stats" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bdhamithkumara"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/bdhamithkumara"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://medium.com/@bdhamithkumara"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://stackoverflow.com/users/9677873"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://linkedin.com/in/bdhamithkumara">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/bdhamithkumara">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@bdhamithkumara">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://stackoverflow.com/users/9677873">
+    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
 </p>
 
 ---
@@ -121,6 +137,7 @@
 ## 🤝 Support Me
 
 If you like my work, consider buying me a coffee! ☕  
+
 <p align="center">
   <a href="https://buymeacoffee.com/bdhamithkumara">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
