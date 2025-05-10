@@ -2,7 +2,7 @@
 
 **Associate Software Engineer | Full-Stack Developer | Open-Source Enthusiast**
 
-👋 Hi, I'm Dhamith! A creative and open-minded developer passionate about crafting innovative solutions with modern technologies. I thrive in challenging environments, contribute to open-source projects, and love collaborating with global developers. Currently, I'm exploring **Nuxt.js** and seeking exciting **Front-End** and **Full-Stack** opportunities to build impactful applications.
+👋 Hi, I'm Dhamith! A creative and open-minded developer passionate about crafting innovative solutions with modern technologies. I thrive in challenging environments, contribute to open-source projects, and love collaborating with global developers. Currently, I'm exploring **Nest.js** and seeking exciting **Front-End** and **Full-Stack** opportunities to build impactful applications.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bdhamithkumara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,7 +16,7 @@
 ## 🌟 About Me
 
 - 🔭 **Currently working on** - Full-stack projects at **Ivolve Global**, building high-performance web apps with **Qwik**, **Next.js**, and **Supabase**.
-- 🌱 **Learning** - **Nuxt.js** and diving deeper into **Back-End Development**.
+- 🌱 **Learning** - **Nest.js** and diving deeper into **Back-End Development**.
 - 👯 **Open to collaborate on** - Front-End and Full-Stack projects.
 - 🤝 **Seeking help with** - Advanced Back-End architectures and optimizations.
 - 💬 **Ask me about** - **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, or **Supabase**.
