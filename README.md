@@ -132,19 +132,3 @@ If you like my work, consider buying me a coffee! ☕
 ## ✍️ Random Dev Quote
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-## 😂 Random Dev Meme
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Random Meme" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=bdhamithkumara&label=Profile%20Visits&color=12&icon=5&pretty=true" alt="Profile Visits" />
-  </a>
-</p>
