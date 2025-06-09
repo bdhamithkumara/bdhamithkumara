@@ -81,21 +81,6 @@
 
 ---
 
-## 🎨 Front End Projects
-
-**Live Projects & Source Code**
-
-- **[Live](https://my-new-web-app.vercel.app/)** | [Source Code](https://github.com/bdhamithkumara/my-new-web-app)
-- **[Live](https://cuddly-octo-winner.vercel.app/)** | [Source Code](https://github.com/bdhamithkumara/cuddly-octo-winner)
-- **[Live](https://shoeswebdesign.vercel.app/)** | [Source Code](https://github.com/bdhamithkumara/shoeswebdesign)
-- **[Live](https://favicon-colour-change.vercel.app/)** | [Source Code](https://github.com/bdhamithkumara/favicon-colour-change)
-- **[Live](https://openai-gpt-4-ai-article-summerize.vercel.app/)** | [Source Code](https://github.com/bdhamithkumara/CloneAI)
-- **[Live](https://findtrend-tau.vercel.app/)** | [Source Code](https://github.com/bdhamithkumara/Findtrend)
-- **[Live](https://christmas-liard.vercel.app/)** | [Source Code](https://github.com/bdhamithkumara/christmas)
-- **[Live](https://nextjstspractice3.vercel.app/)** | [Source Code](https://github.com/bdhamithkumara/Landing-page-using-NextJS-14)
-
----
-
 ## 🎓 Education
 
 - **Bachelor of Information and Communication Technology (Hons)**  
