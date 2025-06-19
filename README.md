@@ -107,6 +107,14 @@
 
 ---
 
+## ⚡ Daily Dev Stats
+
+<p align="center">
+  <a href="https://app.daily.dev/bdhamithkumara"><img src="https://api.daily.dev/devcards/v2/T8ecLEdCbZTxFdHTh22tY.png?r=2ce&type=wide" width="652" alt="Dhamith Kumara's Dev Card"/></a>
+</p>
+
+---
+
 ## ⚡ Stack Overflow Stats
 
 <p align="center">
