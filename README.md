@@ -1,6 +1,6 @@
 # Dhamith Kumara 🤖
 
-**Associate Software Engineer | Full-Stack Developer | Open-Source Enthusiast**
+**Software Engineer | Full-Stack Developer | Open-Source Enthusiast**
 
 👋 Hi, I'm Dhamith! A creative and open-minded developer passionate about crafting innovative solutions with modern technologies. I thrive in challenging environments, contribute to open-source projects, and love collaborating with global developers. Currently, I'm exploring **Nest.js** and seeking exciting **Front-End** and **Full-Stack** opportunities to build impactful applications.
 
@@ -70,8 +70,11 @@
 
 ## 💼 Professional Experience
 
+### Software Engineer | **Creatit Solutions**  
+*Jul 2025 – present*  
+
 ### Associate Full Stack Developer | **Ivolve Global**  
-*Aug 2024 – Present*  
+*Aug 2024 – Jun 2025*  
 
 ### Junior Full Stack Developer | **BlueboyLabs**  
 *Aug 2023 – Aug 2024*  
